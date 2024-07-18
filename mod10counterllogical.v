@@ -1,3 +1,4 @@
+//here you can impliment to fpga nad claock division concept is used
 `timescale 1ns / 1ps
 module mod10count(input clk,reset,
  output reg [3:0]counter1,counter2,
